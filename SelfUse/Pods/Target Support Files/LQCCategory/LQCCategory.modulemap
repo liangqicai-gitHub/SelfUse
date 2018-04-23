@@ -1,0 +1,6 @@
+framework module LQCCategory {
+  umbrella header "LQCCategory-umbrella.h"
+
+  export *
+  module * { export * }
+}

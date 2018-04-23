@@ -1,26 +1,38 @@
 PODS:
   - Alamofire (4.7.1)
+  - LQCCategory (2.0.2)
   - Masonry (1.1.0)
-  - SDWebImage (4.2.2):
-    - SDWebImage/Core (= 4.2.2)
-  - SDWebImage/Core (4.2.2)
+  - SDWebImage (4.3.3):
+    - SDWebImage/Core (= 4.3.3)
+  - SDWebImage/Core (4.3.3)
+  - SwiftyJSON (4.0.0)
+  - UIColor_Hex_Swift (4.0.1)
 
 DEPENDENCIES:
   - Alamofire (= 4.7.1)
+  - LQCCategory (= 2.0.2)
   - Masonry (= 1.1.0)
-  - SDWebImage (= 4.2.2)
+  - SDWebImage (= 4.3.3)
+  - SwiftyJSON (= 4.0.0)
+  - UIColor_Hex_Swift (= 4.0.1)
 
 SPEC REPOS:
   https://github.com/CocoaPods/Specs.git:
     - Alamofire
+    - LQCCategory
     - Masonry
     - SDWebImage
+    - SwiftyJSON
+    - UIColor_Hex_Swift
 
 SPEC CHECKSUMS:
   Alamofire: 68d7d521118d49c615a8d2214d87cdf525599d30
+  LQCCategory: f6a835a2fdfc72b1c86e7f9a5cdf456982514208
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
-  SDWebImage: 89a9d32cd520bbb46eb14e541d5109b3564af198
+  SDWebImage: de4d90b5bff3571eae7bd16202b1f43135409fa5
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  UIColor_Hex_Swift: c5ff88470499383b8fd85302d59344bb24ba9436
 
-PODFILE CHECKSUM: 87c134631f035c9f5c05a36d04eec8e0f6115f73
+PODFILE CHECKSUM: 3da041bb46331b9f35d8a8088bb4b3d2e5425212
 
 COCOAPODS: 1.5.0
